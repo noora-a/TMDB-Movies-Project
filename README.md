@@ -1,13 +1,17 @@
 # TMDB-Movies-Project
 Udacity- Data Analyst Nanodegree
 
-## Overview
-In this project, We will analyze a dataset,TMDB Movie Data in this case, and then communicate our findings about it. You will use the Python libraries,
+## Installations
+You will use the Python libraries,
 - NumPy
 - Pandas 
-- Matplotlib 
-
-to make the analysis easier. We'll go through the data analysis process of our Dataset (TMDB Movie List) and see how everything fits together.
+- Matplotlib
+- 
+### Project Overview:
+In this project, We will analyze a dataset,TMDB Movie Data in this case, and then communicate our findings about it. 
+- **Data Wrangling**: Employed Python libraries to clean and organize the TMDB movie dataset.
+- **Exploratory Analysis**: Conducted thorough exploratory analysis to uncover underlying patterns in the data.
+- **Visualization**: Created compelling visualizations to present findings on movie popularity, ratings, and revenue trends.
 
 ## Dataset- TMDB Movie
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
